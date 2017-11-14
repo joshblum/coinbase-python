@@ -65,7 +65,7 @@ class Client(object):
   VERIFY_SSL = True
 
   BASE_API_URI = 'https://api.coinbase.com/'
-  API_VERSION = '2017-08-09'
+  API_VERSION = '2017-05-19'
 
   cached_callback_public_key = None
 
